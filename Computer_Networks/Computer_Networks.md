@@ -59,7 +59,7 @@ Computer Network is **NOT**
 `What can we do with Computer Networks?`
 
 ![Alt text](image.png)
-**分时共用的思想**
+**分时共用的思想**(important)
 
 - business apps
 
@@ -117,8 +117,12 @@ Computer Network is **NOT**
 
 Cool **end system**  
 **Links**: twisted pair $\to$ coax $\to$ fiber  
-**Network Interface**: Wireless NIC / Wthernet NIC  
+**Network Interface**: Wireless NIC / Ethernet NIC  
 **Router/Switch**: Router and LAN Switch
+
+```txt
+A wireless network interface controller (WNIC) is a network interface controller which connects to a wireless network, such as Wi-Fi, Bluetooth, or LTE (4G) or 5G rather than a wired network, such as an Ethernet network.
+```
 
 - Computer Networks can be **categorized** in a number of ways
   - Transmission technology
