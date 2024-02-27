@@ -15,8 +15,7 @@ So many unfinished drafts! And the statement `arguing with myself` makes me laug
 We often seperate reading and writing, or just simply view writing as `an optional activity after reading`, which is with the sight of how reading affect writing.  
 But seeing this subtitle, I'm excited at finding the effect from writing on reading.
 
-> Blogging has changed how I read other people's writing.
-
+> Blogging has changed how I read other people's writing.  
 > In struggling to find the right ways to structure and present my posts, I am much more attuned to what makes a good argument and what makes a bad argument. I am better at seeing holes in other people's reasoning.
 
 Writing is not a simple task. When writing, a good author would reflect on he's article, and `struggle to find the right ways to structure and present`. By doing these, he gets a better logic ability of acute sense for holes in reasoning.
@@ -35,6 +34,8 @@ This paragraph shows that by writing, the author get a better smell on good auth
 
 > > Writing makes you smarter
 
+Writing reveals holes in your thinking and helps you organize your thoughts in a coherent way
+
 > Writing reveals holes in your thinking. When your ideas are written and looking back at you, they're a lot less convincing than when they're just in your head. Writing forces you to mature your ideas by thinking through counterarguments.
 
 Sure! I agree with the opinion that writing makes an idea appearing to be convincing been "looked", and when you are looking at your ideas beyond a medium, you'll find holes more easily.  
@@ -49,8 +50,7 @@ By writing, you are having a deeper conversation with yourself and this helps yo
 
 > > Consider anything else a side benefit
 
-> Everything else writing gives you -- personal branding, networking, inbound opportunities -- are just side benefits. They're potentially very large side benefits, but they are not the main reason you should write.
-
 The author view the benefit to oneself as the most important. Like mentioned later, the main reason for writing is still that writing can prompt you `to become a better person`.
 
+> Everything else writing gives you -- personal branding, networking, inbound opportunities -- are just side benefits. They're potentially very large side benefits, but they are not the main reason you should write.
 > You should write because writing makes you a better person.
