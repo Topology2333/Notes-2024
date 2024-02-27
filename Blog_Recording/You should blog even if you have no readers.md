@@ -31,14 +31,26 @@ The author also credit this property to writing.
 
 > I'm also more aware of the style of good writers. I mentally take note of the ways good writers phrase their ideas. I'd always enjoyed Paul Graham's writing, but now I really appreciate how he organizes his posts. He has an awesome ability to suck you into his world and show you what it looks like from his perspective. I've learned a lot about good writing from reading Bradford Cross's blog; his posts have a clear arc and make excellent use of short paragraphs to keep the posts flowing.
 
-This
+This paragraph shows that by writing, the author get a better smell on good authors.
 
 > > Writing makes you smarter
-> > Writing reveals holes in your thinking. When your ideas are written and looking back at you, they're a lot less convincing than when they're just in your head. Writing forces you to mature your ideas by thinking through counterarguments.
+
+> Writing reveals holes in your thinking. When your ideas are written and looking back at you, they're a lot less convincing than when they're just in your head. Writing forces you to mature your ideas by thinking through counterarguments.
+
+Sure! I agree with the opinion that writing makes an idea appearing to be convincing been "looked", and when you are looking at your ideas beyond a medium, you'll find holes more easily.  
+And you'll learn [counterargument](https://www.etymonline.com/word/counter-argument#etymonline_v_28972).
+
+这段大有`不识庐山真面目，只缘身在此山中`的味道
 
 > Writing helps you organize your thoughts in a coherent way. This makes you a much better conversationalist when these topics come up. I can't count the number of times I've had deeper conversations with people because I had matured my ideas offline.
 
+Excellent thinkers are good at conherencing their inner logic.  
+By writing, you are having a deeper conversation with yourself and this helps you to matured your own ideas, then you become a better conversationalist.
+
 > > Consider anything else a side benefit
-> > Everything else writing gives you -- personal branding, networking, inbound opportunities -- are just side benefits. They're potentially very large side benefits, but they are not the main reason you should write.
+
+> Everything else writing gives you -- personal branding, networking, inbound opportunities -- are just side benefits. They're potentially very large side benefits, but they are not the main reason you should write.
+
+The author view the benefit to oneself as the most important. Like mentioned later, the main reason for writing is still that writing can prompt you `to become a better person`.
 
 > You should write because writing makes you a better person.
