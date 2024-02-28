@@ -206,6 +206,10 @@ Layering Architecture
 - **Object-oriented** programming
   - A particular piece of software (or hardware) provides a service to its users, but keeps the details of its internal state and algorithms hidden from them
 
+---
+
+### 1.1
+
 ## Chapter 2
 
 ## Chapter 3
