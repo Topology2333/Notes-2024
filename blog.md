@@ -49,7 +49,7 @@ sudo apt install p7zip-full
 7za x yourfile.7z #extract, ‘x’ stands for extract
 ``` -->
 
----
+<!-- --- -->
 
 > 未解决
 
@@ -62,3 +62,20 @@ sudo apt install p7zip-full
 ---
 
 解决 [epub 阅读器](https://askubuntu.com/questions/14378/what-software-can-i-use-to-view-epub-documents)
+
+---
+
+遇到报错
+
+```txt
+error: file `ubuntu_7jrd25` not found
+you need to load the kernel first
+```
+
+解决：
+
+```bash
+sudo apt install --reinstall grub-efi-amd64
+sudo update-grub
+sudo reboot
+```
