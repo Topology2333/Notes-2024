@@ -1,25 +1,51 @@
 # 计算机网络课程笔记
 
-## Chapter 1
-
-### `PPT Contents`
+## Schedule
 
 教材 Computer Networks
 
-课后 10  
-实验 25，其中协议分析 10，协议设计及实现实验 15  
-期中 5  
-期末 60
+| 项目 | 占比 |
+| ---- | ---- |
+| 课后 | 10   |
+| 实验 | 25   |
+| 期中 | 5    |
+| 期末 | 60   |
 
-简单介绍了 The reference model used in this book.
+实验：协议分析 10，协议设计及实现实验 15
+
+**The reference model used in this book.**
+![Alt text](image-20.png)
+
+## Chapter 1
+
+### 小结
+
+- 计算机网络的概念
+  - 什么是计算机网络
+    - 计算机网络 | 分布式系统
+    - 计算机网络的应用
+    - 计算机网络的目标：资源共享、信息传输
+    - 应用的两种模式：C/S 模式 | P2P 模式
+    - 通信服务质量 QoS: 时延、带宽和误码率
+  - 计算机网络硬件组成
+    - 节点（端节点、中间/交换节点）、链路
+    - 有基础设施的网络 | 自组织网络 Ad hoc
+- 计算机网络分类
+  - 按传输技术分
+    - 点到点链路 | 广播链路
+    - 单播、广播与多播
+  - 按覆盖范围分
+    - PAN，LAN，MAN，WAN，互联网 internet
+    - LAN: Ethernet(以太网)、WiFi
+    - MAN：Cable TV, Wimax
+    - WAN：通信子网、交换设备与路由交换技术
+    - 互联网：网络的网络，路由器
+  - 按位置分
+    - 接入网 | 骨干网
 
 ---
 
-**`计算机网络的概念及应用`**
-
----
-
-`What is a Computer Network?`
+### `What is a Computer Network?`
 
 what can be connected  
 how to connect? 直接 or 中转  
@@ -56,7 +82,7 @@ Computer Network is **NOT**
 
 ---
 
-`What can we do with Computer Networks?`
+### `What can we do with Computer Networks?`
 
 ![Alt text](image.png)
 **分时共用的思想** (important)
@@ -107,7 +133,7 @@ Computer Network is **NOT**
 
 ---
 
-`Categories of Computer Networks`
+### `Categories of Computer Networks`
 
 中心化网络/去中心化网络（比如 Ad hoc, 自组织网络）
 
@@ -120,20 +146,25 @@ Cool **end system**
 A wireless network interface controller (WNIC) is a network interface controller which connects to a wireless network, such as Wi-Fi, Bluetooth, or LTE (4G) or 5G rather than a wired network, such as an Ethernet network.
 ```
 
-- Computer Networks can be **categorized** in a number of ways
-  - Transmission technology
-    Broadcast networks |. Point-to-point networks (more complex)
-  - Network scale
-    PAN, LAN, MAN, WAN
-  - Position in the interconnected networks
-    Access networks(接入网，比如手机接入基站) |. Core networks
+Computer Networks can be **categorized** in a number of ways
 
-![Alt text](image-2.png)
+| a                                       | b                                                           |
+| --------------------------------------- | ----------------------------------------------------------- |
+| Transmission technology                 | Broadcast networks / Point-to-point networks (more complex) |
+| Network scale                           | PAN, LAN, MAN, WAN                                          |
+| Position in the interconnected networks | Access networks (接入网，比如手机接入基站) / Core networks  |
 
-![Alt text](image-3.png)
-Broadcasting |. Multicasting 区别（？查）
+---
 
-BY SCALE
+`BY Transmission technology`  
+Broadcasting | Multicasting 区别（？查）
+
+![Alt text](image-3.png)![Alt text](image-2.png)
+
+---
+
+`BY Scale`
+
 ![Alt text](image-4.png)
 
 - LAN
@@ -161,34 +192,13 @@ BY SCALE
   - internet: network of networks
   - Internet（因特网） is the unique world-wide internet
 
-![Alt text](image-5.png)
-
-- 计算机网络的概念
-  - 什么是计算机网络
-    - 计算机网络 | 分布式系统
-    - 计算机网络的应用
-    - 计算机网络的目标：资源共享、信息传输
-    - 应用的两种模式：C/S 模式 | P2P 模式
-    - 通信服务质量 QoS: 时延、带宽和误码率
-  - 计算机网络硬件组成
-    - 节点（端节点、中间/交换节点）、链路
-    - 有基础设施的网络 | 自组织网络 Ad hoc
-- 计算机网络分类
-  - 按传输技术分
-    - 点到点链路 | 广播链路
-    - 单播、广播与多播
-  - 按覆盖范围分
-    - PAN，LAN，MAN，WAN，互联网 internet
-    - LAN: Ethernet(以太网)、WiFi
-    - MAN：Cable TV, Wimax
-    - WAN：通信子网、交换设备与路由交换技术
-    - 互联网：网络的网络，路由器
-  - 按位置分
-    - 接入网 | 骨干网
-
 ---
 
-`Network architecture and protocols`
+`BY Position in the interconnected networks`
+
+![Alt text](image-5.png)
+
+### `Network architecture and protocols`
 
 Layering Architecture  
  What is Protocol?  
@@ -229,6 +239,8 @@ A list of protocols used by a certain system
 Here comes an example:
 
 ![Alt text](image-7.png)
+
+---
 
 **`Virtual Communication of Layer 5 Peers`**
 
@@ -394,8 +406,6 @@ They are `free to change their protocols` if they do not change the service
 In network architecture, each layer provides a certain function(**services**) to its upper layer through interfaces.
 
 ![Alt text](image-18.png)
-
-### 1.1
 
 ## Chapter 2
 
