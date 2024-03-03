@@ -12,6 +12,34 @@ Table Contents
 
 `git reset --soft HEAD^` 取消上一次 commit
 
+---
+
+突然想重命名一下远程分支名。
+
+```bash
+git checkout -b main
+git push origin main
+git push origin --delete master
+git fetch --prune
+```
+
+但是失败。
+
+```txt
+To github.com:Topology2333/Notes-2024.git
+ ! [remote rejected] master (refusing to delete the current branch: refs/heads/master)
+error: failed to push some refs to 'git@github.com:Topology2333/Notes-2024.git'
+```
+
+原因是 master 被设置为 default 了。直接在 github 管理界面 rename，再在本地执行以下即可。
+
+```bash
+git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
+```
+
 ## About VScode
 
 markdown 预览时 `Ctrl+K V`, 而非 `Ctrl+K, Ctrl+V`  
