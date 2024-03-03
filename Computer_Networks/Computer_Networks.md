@@ -59,10 +59,9 @@ Computer Network is **NOT**
 `What can we do with Computer Networks?`
 
 ![Alt text](image.png)
-**分时共用的思想**(important)
+**分时共用的思想** (important)
 
 - business apps
-
   - resource sharing
   - client-server mode
   - communication medium among employees
@@ -73,7 +72,6 @@ Computer Network is **NOT**
        bit-error-rate 错码率
   - electronic commerce
     - airlines, bookstores, shopping carts,,,
-
 - home apps
   - Access to remote information  
      Web browsing
@@ -96,13 +94,11 @@ Computer Network is **NOT**
   - Sensor networks
   - VANET(Vehicular ad hoc networks, 车载自组织网络)
 - social issues
-
   - Politics, religion, sex
   - Eavesdropping (窃听)
   - Credit card
   - Unwanted communication (Spam, …)
   - Privacy
-
 - compoments
   - Nodes  
     Computers/Hosts(主机)/End Systems  
