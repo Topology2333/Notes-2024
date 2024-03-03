@@ -37,3 +37,28 @@ markdown 预览时 `Ctrl+K V`, 而非 `Ctrl+K, Ctrl+V`
 某日突发奇想要加加 swap 分区，然而遇到报错  
 `Can not use Swap file on ZFS: Files with holes`  
 参考 [askubuntu](https://askubuntu.com/questions/1198903/can-not-use-swap-file-on-zfs-files-with-holes) [zfsonlinux](https://github.com/zfsonlinux/pkg-zfs/wiki/HOWTO-use-a-zvol-as-a-swap-device)
+
+---
+
+<!-- 为了下载字典而[安装 7-zip](https://gcore.com/learning/how-to-extract-7z-files-linux/)
+
+```shell
+sudo apt update
+sudo apt install p7zip-full
+
+7za x yourfile.7z #extract, ‘x’ stands for extract
+``` -->
+
+---
+
+> 未解决
+
+处理字典问题，没找到、
+
+---
+
+[解压缩](https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line)
+
+---
+
+解决 [epub 阅读器](https://askubuntu.com/questions/14378/what-software-can-i-use-to-view-epub-documents)
