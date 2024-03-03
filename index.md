@@ -19,7 +19,7 @@
 
 ## 乱七八糟的想法
 
-空
+[目前啥也没写](/Hodgepodge/Hodgepodge.md)
 
 ## 论文阅读
 
