@@ -152,9 +152,9 @@ $$
 
 文法是一个四元组 $G=(N,T,P,S)$
 
-1. N 非终结符的有限集合
-2. T 终结符的有限集合，N 与 T 不交
-3. P 形式为 $\alpha\to \beta$ 生成式的有限集合  
+1. $N$ 非终结符的有限集合
+2. $T$ 终结符的有限集合，N 与 T 不交
+3. $P$ 形式为 $\alpha\to \beta$ 生成式的有限集合  
    且 $\alpha\in (N\cup T)^+$，$\beta\in (N\cup T)^*$  
    且 $\alpha$ 至少含一个非终结符号  
    $S$ 起始符，且 $S\in N$
@@ -169,8 +169,20 @@ $$
 $A\to \beta$ 是 P 中的生成式，$\alpha, \gamma$ 是 $(N\cup T)^*$ 的元素，则有  
 $\alpha A\gamma\underset{G}{\Rightarrow} \alpha \beta\gamma$，称为直接推导
 
-设 $ \alpha,\alpha*1,\cdots,\alpha_n,\alpha '\in $ $(N\cup T)^{*}$，$ \alpha=\alpha\*1$，$ \alpha '=\alpha*n$，  
-其中 $\alpha_i\to\alpha *{i+1}$
+设 $ \alpha,\alpha_0,\alpha_1,\cdots,\alpha_n,\alpha '\in $ $(N\cup T)^{*}$  
+$ \alpha=\alpha_0$，
+$ \alpha '=\alpha_n$，
+
+其中 $\alpha_i\Rightarrow\alpha_{i+1}$
+
+称 $\alpha=\alpha_0\Rightarrow\alpha_1\Rightarrow\cdots\Rightarrow\alpha_n=\alpha ' $ 是长度为 $n$ 的推导序列。
+
+特别地，称 $\alpha\Rightarrow\alpha_0$ 长度为 0，
+
+如果推导 $\alpha\Rightarrow\alpha '$ 成立，记作 $\alpha\underset{G}{\overset{*}{\Rightarrow}}\alpha '$
+
+特别地，如果长度不为 0，记作
+$\alpha\underset{G}{\overset{+}{\Rightarrow}}\alpha '$
 
 句型的定义：  
 字符串 $\alpha$ 是 $G$ 上的句型，当且仅当 $S\underset{G}{\overset{+}{\Rightarrow}}$
