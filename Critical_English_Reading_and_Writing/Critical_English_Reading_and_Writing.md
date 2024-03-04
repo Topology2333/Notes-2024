@@ -100,3 +100,134 @@ Still some problems:
 - I still think that when we are discussing the difference between the common reading and the critical reading, we should not include self-awareness as well as self-regulation. Perhaps in Chinese, "思辨" has the meaning of self-awareness... Well, I think the English name of the course should be like "how to read properly"? (laughing)
 - Why the Bloom's taxonomy changes?  
   (just search on the Internet)
+
+## Critical Thinking - an Introduction
+
+What is critical thinking?  
+analyze + infer + evaluate towards `your own thinking`  
+by _Richiard Paul_ & _Linda Elder_
+
+---
+
+[Quotes](https://www.goodreads.com/quotes/1253168-everyone-thinks-it-is-our-nature-to-do-so-but#:~:text=%E2%80%9CEveryone%20thinks%3B%20it,Concepts%20and%20Tools):
+
+```txt
+“Everyone thinks; it is our nature to do so. But much of our thinking, left to itself, is biased, distorted, partial, uninformed or down-right prejudiced. Yet the quality of our life and that of what we produce, make, or build depends precisely on the quality of our thought. Shoddy thinking is costly, both in money and in quality of life. Excellence in thought, however, must be systematically cultivated.”
+```
+
+― _Richard Paul, Miniature Guide to Critical Thinking Concepts and Tools_
+
+`Evolution:`
+
+biased, distorted, partial, uninformed or down-right prejudiced  
+$\to$ systematically cultivated excellence in thought
+
+mindful/unmindful  
+ill-informed<->well informed<->fully informed
+
+---
+
+`Q & A & my thoughts`  
+Q: Does the quality of our life depends on the quality of our thoughts?  
+A: Yes. Actions depend on thoughts, and the quality of our life directly depends on our actions. And the "denpends on" means that the thoughts acts as a key factor.  
+I: Agree. Moreover, the quality of our life also directly depends on our evaluation of life, which is a part of our thoughts.  
+Consider a homeless person; he may have a high quality of life in his view because he is chasing something meaningful and he doesn't feel dull. This case demonstrates how thoughts directly influence our quality of life. 可以认为是 `心境`？
+
+Teacher: It's diffcult to be impartial because we are different individuals.  
+I: Agree! And I think impartial is sometimes unnecessary.  
+Partial is not good, but the stubborn pursuit of impartial may take us to the situation of losing our own judgements.
+
+---
+
+UNSOLVED: `HOW THINKING GENERATED`
+
+---
+
+`Critical thinking`, is to be **self-aware**:
+
+- self-direted
+- self-disciplined
+- self-monitored
+- self-corrective
+
+which means to `consistently` attempt to be rationally, fair-mindedly (opposite to partial) and self-reflected
+
+```txt
+Rome wasn't built in a day
+```
+
+---
+
+The levels of questions are corresponding to the levels of thinking (6).
+
+Think with high-quality questions.and they can be suggestive, inferential, explanatory, conclusive...
+
+AI?
+
+no question? no understanding?
+
+```txt
+Like AI training, the basic task is to complete a sentence, or Cloze Test. That may come with the meaning that the buttom level of reading is remembering / asking basic questions.
+```
+
+standing back  
+indentify analysis independent evaluating
+
+not to be critical don't find claws  
+more than that
+
+discovery
+
+---
+
+`The Elements of Thought`
+
+![Alt text](image-3.png)
+graph (like cooking)
+
+- purpose  
+  explicit/inplicit (how self aware)
+- question at a issue
+- information  
+  include your own experiences
+- interpretation and inference  
+  -> to conclusions 例子：推销
+- concepts  
+  example: psychology theories  
+  例子：personal relationships，还是推销员
+- assumption  
+  correct/incorrect  
+  not necessary be sterotype  
+  例子：北师大
+- implications and consequences
+  ```txt
+  do this part out of thought?
+  ```
+- point of view
+
+```txt
+In my view, is this theory not so well-organized ???
+```
+
+---
+
+KWL
+
+| known                                                                 | want to know                         | learned |
+| --------------------------------------------------------------------- | ------------------------------------ | ------- |
+| excited?: movie:EVA Flipped singer:Talor... happy ending / bad ending | how love become an art?              |
+| reference(from): father,mother,friends                                | what is love?                        |         |
+| features: care, make us crying?, laughing,                            | different kinds of love?             |         |
+| violent emotion experiences                                           | why we need love?                    |         |
+|                                                                       | happy or pain?or painful art? SM?    |         |
+|                                                                       | how to love?                         |         |
+|                                                                       | importance of love? can I do without |         |
+
+Then we read the first 2 paragraphs of _The Art of Loving_
+
+```txt
+KWL was not written in the correct way. I was confused about this and I asked my teacher after class.
+According to her statements, the `known` can be just some words to open your mind, and after you finish your class, you'd add new words.
+In other words, the `known` part represent a schema in your mind. But it should not contain too much message. For instance, some people wrote down `Titanic`, that's right, but what makes this film be related to `love`? Then the word `sacrifice` was written down.
+You can also give some sentences, but they are not abstract enough.
+```
