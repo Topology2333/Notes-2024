@@ -107,3 +107,15 @@ sudo apt install --reinstall grub-efi-amd64
 sudo update-grub
 sudo reboot
 ```
+
+---
+
+```bash
+Errors were encountered while processing:  network-manager-gnome  ppp
+```
+
+解决
+
+```bash
+apt --fix-broken install
+```
