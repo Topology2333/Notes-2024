@@ -119,3 +119,17 @@ Errors were encountered while processing:  network-manager-gnome  ppp
 ```bash
 apt --fix-broken install
 ```
+
+---
+
+今天收到了朋友买的微软鼠标。不得不说，在 Linux 上使用微软的玩意有一种 ntr 的感觉。
+
+具体体现在，鼠标滚轮用不了。但这应该不是微软的问题。在微软官网上也没看到对 Linux 的支持。
+
+最终解决了，参考这篇博客，修改 [/etc/X11/xorg.conf 文件](https://www.linuxidc.com/Linux/2008-05/12999.htm#:~:text=Ubuntu%20%E4%B8%8B%E9%BC%A0%E6%A0%87%E6%BB%9A%E8%BD%AE%E5%A4%B1%E6%95%88%E4%B8%BB%E8%A6%81%E6%98%AF%E9%85%8D%E7%BD%AE%E4%B8%8D%E6%AD%A3%E7%A1%AE%E5%BC%95%E8%B5%B7%EF%BC%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%E5%A6%82%E4%B8%8B%EF%BC%9A%201%E3%80%81%E9%94%AE%E5%85%A5sudo,gvim%20%2Fetc%2FX11%2Fxorg.conf%202%E3%80%81%E6%89%93%E5%BC%80%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%B0%86%E9%BC%A0%E6%A0%87%E9%85%8D%E7%BD%AE%E5%8F%82%E6%95%B0%E9%83%A8%E5%88%86%E6%94%B9%E5%86%99%E6%88%90%E5%A6%82%E4%B8%8B%E5%BD%A2%E5%BC%8F%EF%BC%9A)
+
+---
+
+结果登录界面又出问题了。
+
+选项右下角改一下就好了？
