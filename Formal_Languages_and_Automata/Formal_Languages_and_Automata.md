@@ -106,3 +106,83 @@ $A\times A$ 的一个子集被成为一个关系
 ### 证明技术
 
 ## 第二章：语言及文法
+
+字符的有限集合称为字母表，记作 $T$
+
+由字母表 $T$ 构成的有限序列称为字母表 $T$ 上的字符串（句子）
+
+约定：今后用小写字母 $a,b,c,d$ 表示单个字符；$t,u,v,w,x,y,z$ 表示字符串，用 $a^n$ 表示 $n$ 个 $a$ 的字符串
+
+定义字符串的链接（略）
+
+定义字符串的逆（倒置）$\omega \to \widetilde{\omega}$
+
+### BNF 巴科斯范式
+
+常被认为讨论某种程序设计语言语法的元语言
+
+`::=`定义为
+
+<数字> ::= $0|1|\cdots|9$  
+<字母> ::= $A|B|\cdots|Z|a|b|\cdots|z$  
+<标识符> :== <字母> | <标识符><字母> | <标识符><数字>
+
+---
+
+Chomsky 文法体系（改）
+
+example:  
+把 `::=` 修改为 $\to$  
+用 I 表示 Indentifier 标识符
+用 L 表示字母  
+用 D 表示数字  
+改写为
+
+$$
+I\to L\\
+I\to IL \\
+I\to ID\\
+L\to a|b|\cdots|z\\
+D\to 0|1|\cdots|9
+$$
+
+---
+
+文法定义
+
+文法是一个四元组 $G=(N,T,P,S)$
+
+1. $N$ 非终结符的有限集合
+2. $T$ 终结符的有限集合，N 与 T 不交
+3. $P$ 形式为 $\alpha\to \beta$ 生成式的有限集合  
+   且 $\alpha\in (N\cup T)^+$，$\beta\in (N\cup T)^*$  
+   且 $\alpha$ 至少含一个非终结符号  
+   $S$ 起始符，且 $S\in N$
+
+> 讨论
+
+或者 $\alpha \in (N\cup T)^* N^+(N\cup T)^*$  
+**阐述是否为等价的定义！**
+
+### 推导与句型
+
+$A\to \beta$ 是 P 中的生成式，$\alpha, \gamma$ 是 $(N\cup T)^*$ 的元素，则有  
+$\alpha A\gamma\underset{G}{\Rightarrow} \alpha \beta\gamma$，称为直接推导
+
+设 $ \alpha,\alpha_0,\alpha_1,\cdots,\alpha_n,\alpha '\in $ $(N\cup T)^{*}$  
+$ \alpha=\alpha_0$，
+$ \alpha '=\alpha_n$，
+
+其中 $\alpha_i\Rightarrow\alpha_{i+1}$
+
+称 $\alpha=\alpha_0\Rightarrow\alpha_1\Rightarrow\cdots\Rightarrow\alpha_n=\alpha ' $ 是长度为 $n$ 的推导序列。
+
+特别地，称 $\alpha\Rightarrow\alpha_0$ 长度为 0，
+
+如果推导 $\alpha\Rightarrow\alpha '$ 成立，记作 $\alpha\underset{G}{\overset{*}{\Rightarrow}}\alpha '$
+
+特别地，如果长度不为 0，记作
+$\alpha\underset{G}{\overset{+}{\Rightarrow}}\alpha '$
+
+句型的定义：  
+字符串 $\alpha$ 是 $G$ 上的句型，当且仅当 $S\underset{G}{\overset{+}{\Rightarrow}}$
